@@ -1,0 +1,26 @@
+.para
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+    color: black;
+}
+.marquee
+{
+    width: 100%;
+    font-size: 25px;
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-bottom: -25px;
+    overflow: hidden;
+    position: relative;
+    animation : blinker 1.5s linear infinite;
+    color: black;
+    animation: blinker 2s linear infinite;
+}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
