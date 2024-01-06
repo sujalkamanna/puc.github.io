@@ -3,6 +3,7 @@
 ## Overview
 
 Welcome to the Pollution Under Control (PUC) Education Website! This platform is designed to provide educational resources and information about pollution control, specifically focusing on vehicle emissions and PUC testing.
+Test website on github pages <a href="https://sujalkamanna.github.io/puc.github.io/" > HERE </a>
 
 ## Features
 
