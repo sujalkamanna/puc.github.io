@@ -24,7 +24,7 @@ If you are passionate about environmental education and would like to contribute
 
 ## Support
 
-For any issues, feedback, or inquiries related to our educational content, please contact us at sujalkamanna2003@gmail.com
+For any issues, feedback, or inquiries related to our educational content, please contact us @<a href="mailto:sujalkamanna2003@gmail.com">sujalkamanna2003@gmail.com</a>
 
 ## License
 
