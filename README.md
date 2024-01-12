@@ -21,12 +21,8 @@ To explore the educational content on our Pollution Under Control Education Webs
 
 ## Contributing
 
-If you are passionate about environmental education and would like to contribute to our educational resources, please follow our [contribution guidelines]).
+If you are passionate about environmental education and would like to contribute to our educational resources, please follow our [contribution guidelines].
 
 ## Support
 
 For any issues, feedback, or inquiries related to our educational content, please contact us @<a href="mailto:sujalkamanna2003@gmail.com">sujalkamanna2003@gmail.com</a>
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
