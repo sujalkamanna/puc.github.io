@@ -623,8 +623,10 @@ section {
 }
 
 .about .video-box {
-  background: url("/assets/img/pollution.png") center center no-repeat;
-  background-size: contain;
+  /* background: url("/assets/img/pollution.png") center center no-repeat; */
+  background-image: url('/assets/img/pollution.png');
+  background-size: cover; /* Adjust as needed */
+  /* background-size: contain; */
   min-height: 500px;
 }
 
