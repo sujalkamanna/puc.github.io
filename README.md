@@ -1,4 +1,4 @@
-# Pollution Under Control (PUC) Education Website
+# Pollution Under Control (PUC)
 
 ## Overview
 
